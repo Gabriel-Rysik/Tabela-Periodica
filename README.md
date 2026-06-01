@@ -12,7 +12,7 @@ Este é um programa em Python para consulta de elementos da tabela periódica, i
 
 1. Baixe ou clone este repositório no seu computador:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Gabriel-Rysik/Tabela-Periodica
    ```
 
 2. Entre na pasta do projeto:
@@ -32,4 +32,4 @@ Este é um programa em Python para consulta de elementos da tabela periódica, i
 * `remover_acentos.py`: Script para padronizar o texto das buscas.
 
 ---
-Desenvolvido por [Gabriel Rysik](https://github.com)
+Desenvolvido por [Gabriel Rysik](github.com/Gabriel-Rysik)
