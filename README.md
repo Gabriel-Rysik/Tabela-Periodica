@@ -32,4 +32,4 @@ Este é um programa em Python para consulta de elementos da tabela periódica, i
 * `remover_acentos.py`: Script para padronizar o texto das buscas.
 
 ---
-Desenvolvido por [Gabriel Rysik](github.com/Gabriel-Rysik)
+Desenvolvido por [Gabriel Rysik](https://github.com/Gabriel-Rysik)
